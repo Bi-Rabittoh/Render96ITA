@@ -19,10 +19,10 @@
                 "Bob-omba rosa (Premi [B]).",
                 "Di sicuro ti aiuterà,",
                 "e così faranno i suoi",
-		"compagni in altre",
+                "compagni in altre",
                 "aree.",
                 "Per leggere i cartelli,",
-		"fermati davanti a loro",
+                "fermati davanti a loro",
                 "e premi [B]. Premi [A]",
                 "o [B] per continuare",
                 "a leggere.",
@@ -1773,9 +1773,8 @@
                 "Sei finito proprio",
                 "nella mia trappola!",
                 "Come prevedevo!",
-                "Ti avverto,",
-                "『Amico,』 sta'",
-                "attento!"
+                "Ti avverto, 『Amico』,",
+                " sta' attento!"
             ]
         },
         {
@@ -2253,15 +2252,14 @@
             "lines": [
                 "Grrr! Sono stato",
                 "imprudente. Non è andata",
-                "come speravo...ma ho ancora",
-                "il potere delle Stelle!",
-                "E ho ancora Peach.",
+                "come speravo... ma ho",
+                "ancora il potere delle",
+                "Stelle! E ho ancora Peach.",
                 "Bwa ha ha! Non ti darò",
                 "nessun'altra stella!",
                 "Non ho ancora finito",
-                "con te,",
-                "ma ti lascerò andare",
-                "per ora",
+                "con te, ma ti lascerò",
+                "andare per ora.",
                 "Pagherai dopo le",
                 "conseguenze!"
             ]
@@ -2282,8 +2280,7 @@
                 "",
                 "Ora, se vuoi vedere la tua",
                 "preziosa principessa,",
-                "vieni in cima",
-                "alla torre.",
+                "vieni in cima alla torre.",
                 "Ti aspetto!",
                 "Gwa ha ha ha!"
             ]
