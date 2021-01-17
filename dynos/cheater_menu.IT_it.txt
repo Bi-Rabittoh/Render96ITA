@@ -18,18 +18,18 @@
 
 LANGUAGE "Italiano"
 SUBMENU "cheater_submenu" "CHEATER" "CHEATER"
-	TOGGLE	"chaos_mode"	"MODALITÀ CAOS"			        "chaos_mode"	0
-	BIND	"time_button"	"Pulsante ferma-tempo"		    "time_button"	0x0400	0x0008 0x1003 0xFFFF
-	SUBMENU "che_submenu"   "Nuovi trucchi!" "CHEATER"
-		TOGGLE	"no_heavy"	"Trasporta pesi facilmente"	    "no_heavy"		0
-		TOGGLE	"swim_any"	"Nuota ovunque"			        "swim_any"		0
-		TOGGLE	"haz_walk"	"Cammina su lava/sabbie mobili"	"haz_walk"		0
-		TOGGLE	"coin_mag"	"Attira le monete"		        "coin_mag"		0
-		TOGGLE	"jump_man"	"Saltatore"			            "jump_man"		0
-		SCROLL	"spl"		"Numero di Spamba"	            "spl"			0 0 7 1
+	TOGGLE	"chaos_mode"	"MODALITÀ CAOS"						"chaos_mode"	0
+	BIND	"time_button"	"Pulsante ferma-tempo"				"time_button"	0x0400	0x0008 0x1003 0xFFFF
+	SUBMENU "che_submenu" "Nuovi trucchi!" "CHEATER"
+		TOGGLE	"no_heavy"	"Trasporta pesi facilmente"			"no_heavy"		0
+		TOGGLE	"swim_any"	"Nuota ovunque"						"swim_any"		0
+		TOGGLE	"haz_walk"	"Cammina su lava e sabbie mobili"	"haz_walk"		0
+		TOGGLE	"coin_mag"	"Attira le monete"					"coin_mag"		0
+		TOGGLE	"jump_man"	"Salto triplo semplificato"			"jump_man"		0
+		SCROLL	"spl"		"Numero di Spamba"					"spl"			0 0 7 1
 	ENDMENU
-	SUBMENU "wat_submenu" "Prosciugare Baia Pirata?"        "CHEATER"
-		TOGGLE	"wat_con"	"Controllo dell'acqua"		    "wat_con"		0
-		SCROLL	"wat_lev"	"Livello dell'acqua (9)"	    "wat_lev"		0 1 20 1
+	SUBMENU "wat_submenu" "Prosciugare Baia Pirata?" "CHEATER"
+		TOGGLE	"wat_con"	"Controllo dell'acqua"		    	"wat_con"		0
+		SCROLL	"wat_lev"	"Livello dell'acqua (9)"	    	"wat_lev"		0 1 20 1
 	ENDMENU
 ENDMENU
