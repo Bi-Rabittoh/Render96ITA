@@ -25,7 +25,7 @@ SUBMENU "cheater_submenu" "CHEATER" "CHEATER"
 		TOGGLE	"swim_any"	"Nuota ovunque"						"swim_any"		0
 		TOGGLE	"haz_walk"	"Cammina su lava e sabbie mobili"	"haz_walk"		0
 		TOGGLE	"coin_mag"	"Attira le monete"					"coin_mag"		0
-		TOGGLE	"jump_man"	"Salto triplo semplificato"			"jump_man"		0
+		TOGGLE	"jump_man"	"Sempre salto triplo"				"jump_man"		0
 		SCROLL	"spl"		"Numero di Spamba"					"spl"			0 0 7 1
 	ENDMENU
 	SUBMENU "wat_submenu" "Prosciugare Baia Pirata?" "CHEATER"
